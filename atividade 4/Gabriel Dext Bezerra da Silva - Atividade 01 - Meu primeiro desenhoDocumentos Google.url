@@ -1,2 +1,22 @@
-[InternetShortcut]
-URL=https://docs.google.com/document/d/1mSXzd9M9--jMt7OzJGqFVcHhUo9XCXWu7PflAvXXeGE/edit?usp=drive_web&authuser=1
+Defina os seguintes conceitos centrais da abordagem ER:
+a) Entidade;
+conjunto de objetos da realidade modelada sobre os quais deseja-se manter informações no banco de dados” , ou seja, é o local onde coisas do mundo real, concreto ou abstrato, sobre os quais se deseja armazenar informações. Alguns exemplos de entidades são: pessoa (física ou jurídica), funcionários de uma empresa, cliente, produto, disciplina, evento etc. 
+
+b) Relacionamento;
+ Relacionamento é associação entre duas entidades, no exemplo abaixo há o relacionamento entre duas entidades, médico e paciente. Um paciente, ocorrência da entidade paciente, é consultado por um médico, ocorrência da entidade médica. No DER, um relacionamento é representado por um losango que liga as duas entidades.  
+c) Atributo;
+O conceito de atributo serve para associar informações a ocorrências de entidades ou de relacionamentos, ou seja, o atributo são características de cada ocorrência ou relacionamento que deseja-se guardar no banco de dados. Por exemplo, a entidade PESSOA pode ter vários atributos, como: nome, altura, peso, sexo, escolaridade. Essas são características semelhantes entre ocorrências, porém com valores diferentes. 
+
+d) Domínio de um Atributo;
+não achei uma definição satisfatória… 
+
+e) Generalização/especialização;
+A generalização/especialização consiste em uma entidade genérica e subconjuntos mais específicos, lembrando que a ocorrência da entidade genérica possui além de seus atributos os atributos da especialização. No DER a especialização é representada por um triângulo isósceles conectado às entidades especializadas e a genérica
+
+f) Entidade Associativa;
+Uma entidade associativa nada mais é que a redefinição de um relacionamento, que passa a ser tratado como se fosse uma entidade. 
+
+g) Cardinalidade de um Atributo.
+não sei como explicar
+
+
